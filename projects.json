@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Personal Website (this site)",
+    "description": "A responsive static portfolio site built with HTML, CSS and vanilla JS. Used to showcase projects and links for a resume.",
+    "tech": ["HTML","CSS","JavaScript"],
+    "link": "https://github.com/KalanKing1/Kalan-Website"
+  },
+  {
+    "title": "Example Project: Data Visualizer",
+    "description": "A small web app that visualizes CSV datasets with interactive charts.",
+    "tech": ["D3","TypeScript","Node"],
+    "link": "https://github.com/KalanKing1/data-visualizer"
+  }
+]
+[
+  {
+    "title": "Personal Website (this site)",
+    "description": "A responsive static portfolio site built with HTML, CSS and vanilla JS. Used to showcase projects and links for a resume.",
+    "tech": ["HTML","CSS","JavaScript"],
+    "link": "https://github.com/KalanKing1/Kalan-Website"
+  },
+  {
+    "title": "Example Project: Data Visualizer",
+    "description": "A small web app that visualizes CSV datasets with interactive charts.",
+    "tech": ["D3","TypeScript","Node"],
+    "link": "https://github.com/KalanKing1/data-visualizer"
+  }
+]
